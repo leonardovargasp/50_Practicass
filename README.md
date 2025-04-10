@@ -33,7 +33,7 @@
   31. [Contar cuántos números pares hay entre dos valores dados](https://gist.github.com/leonardovargasp/a4880a2b987c9d1c5aa28f243b4ce5da)
   32. [Sumar los dígitos de un número](https://gist.github.com/leonardovargasp/ae6eb19bdeec2755febe9037c3d4ccbd)
   33. [Convertir un número decimal a binario](https://gist.github.com/leonardovargasp/004e19384cfc54d13babbd8980651b5e)
-  34. []()
+  34. [Convertir un número binario a decimal](https://gist.github.com/leonardovargasp/6b6417e7e4f1bc02e09ff4c88942cce8)
   35. []()
   36. []()
   37. []()
